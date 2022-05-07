@@ -1,4 +1,4 @@
-# musaic
+# Musaic
 
 A new Flutter project.
 
